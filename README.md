@@ -27,6 +27,11 @@ I am excited to state that, I took the necessary process in ensuring that this p
 6. Who are the top artistes?
 7. Most streamed song for the period
 
+# Visualization
+
+![SPOTIFY POWER BI](https://github.com/user-attachments/assets/55026047-035f-4313-89d0-080bfce43415)
+
+find link to video of the project here: https://vimeo.com/1058961254/a2348e6a5f
 
 
 
